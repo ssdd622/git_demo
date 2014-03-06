@@ -12,5 +12,8 @@ public class Other_merge {
         System.out.println("branch2");
 
         System.out.println("merger2");
+        System.out.println("dddd");
+
+        System.out.println("gggg");
     }
 }
