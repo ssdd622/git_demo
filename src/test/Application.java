@@ -8,5 +8,7 @@ public class Application {
         System.out.println("dd");
 
         System.out.println("master1");
+
+        System.out.println("branch1");
     }
 }
