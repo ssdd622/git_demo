@@ -5,12 +5,6 @@ package test;
  */
 public class Other_merge {
     public void merge(){
-        System.out.println("mater1");
-
-        System.out.println("branch1");
-
-        System.out.println("branch2");
-
-        System.out.println("merger2");
+        System.out.println("dddd");
     }
 }
