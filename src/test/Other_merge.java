@@ -8,5 +8,7 @@ public class Other_merge {
         System.out.println("mater1");
 
         System.out.println("branch1");
+
+        System.out.println("branch2");
     }
 }
